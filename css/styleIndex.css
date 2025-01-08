@@ -1,0 +1,96 @@
+#name h1{
+  text-align : center;
+  font-size : 200px;
+  font-weight : bold;
+  font-family: "Papyrus", fantasy;
+  color: aliceblue;
+  position: relative;
+  top: 20px;
+}
+#name h3{
+  text-align: center;
+  font-family: "Papyrus", fantasy;
+  font-size: 25px;
+  position: relative;
+  top: -180px;
+  color: aliceblue;
+  font-weight: bolder;
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px;
+}
+
+#name{
+  position: relative;
+  background-image: url("../img/cafe3.jpg");
+  background-size: cover;
+  background-position: center;
+  top: -165px;
+  margin: 0px;
+}
+
+header{
+  background-color: rgba(138,92,92,0.5);
+  margin: 0;
+  padding: 2px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: rgb(121,70,48);
+}
+
+
+.options ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  justify-content: center;
+  gap: 100px;
+  font-family: "Garamond", serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.options ul li {
+  margin-right: 20px;
+  font-size : 30px;
+}
+
+#Social ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  justify-content: center;
+  gap: 50px;
+  position: relative;
+  top: -10px;
+}
+#Social p{
+  color: antiquewhite;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Garamond", serif;
+  font-size: 30px;
+}
+#Social{
+  background-color: rgba(0,0,0,0.5);
+  position: relative;
+  top: -100px;
+  width: 300px;
+  padding: 2px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+body{
+  background-image: url("../img/background.png");
+  background-size: contain;
+}

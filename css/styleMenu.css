@@ -1,0 +1,172 @@
+#pic img{
+  position: absolute;
+  width: 300px;
+  height: 400px;
+  top: 70px;
+  left: 900px;
+}
+body {
+  background-image: url("../img/BGmenu.png");
+}
+#Name-menu {
+  font-family: "Papyrus", fantasy;
+  font-weight: bold;
+  font-size: 90px;
+  position: absolute;
+  left: 300px;
+  top: 150px;
+  color: rgb(75,6,6);
+}
+#Menu-head{
+  font-size: 180px;
+  color: rgb(54,2,2);
+  position: absolute;
+  top: 235px;
+  left: 300px;
+}
+#Coffee-head{
+  position: absolute;
+  top: 500px;
+  left: 150px;
+}
+#Coffee-head h2{
+  position: relative;
+  top: -80px;
+  left: 90px;
+  font-size: 40px;
+  color: rgb(54,2,2);
+}
+#Coffee-head hr{
+  width: 395px;
+  position: relative;
+  top: -110px;
+  height: 3px;
+  background-color: rgb(54,2,2);
+  left: -100px;
+}
+#Coffee_menu ul{
+  list-style: none;
+  color: rgb(54,2,2);
+  font-size: 30px;
+}
+#Coffee_menu ul li{
+  margin-bottom: 7px;
+}
+
+#Coffee_menu{
+  position: relative;
+  top: 570px;
+  left: 100px;
+}
+#Coffee_menu-price ul{
+  list-style: none;
+  color: rgb(54,2,2);
+  font-size: 30px;
+}
+#Coffee_menu-price ul li{
+  margin-bottom: 7px;
+}
+
+#Coffee_menu-price{
+  position: relative;
+  top: 381px;
+  left: 500px;
+}
+
+#Tea-head{
+  position: absolute;
+  top: 800px;
+  left: 150px;
+}
+#Tea-head h2{
+  position: relative;
+  top: -80px;
+  left: 90px;
+  font-size: 40px;
+  color: rgb(54,2,2);
+}
+#Tea-head hr{
+  width: 395px;
+  position: relative;
+  top: -110px;
+  height: 3px;
+  background-color: rgb(54,2,2);
+  left: -100px;
+}
+#Tea_menu ul{
+  list-style: none;
+  color: rgb(54,2,2);
+  font-size: 30px;
+}
+#Tea_menu ul li{
+  margin-bottom: 7px;
+}
+
+#Tea_menu{
+  position: relative;
+  top: 510px;
+  left: 100px;
+}
+#Tea_menu-price ul{
+  list-style: none;
+  color: rgb(54,2,2);
+  font-size: 30px;
+}
+#Tea_menu-price ul li{
+  margin-bottom: 7px;
+}
+
+#Tea_menu-price{
+  position: relative;
+  top: 280px;
+  left: 500px;
+}
+
+#Dessert-head{
+  position: absolute;
+  top: 600px;
+  left: 900px;
+}
+#Dessert-head h2{
+  position: relative;
+  top: -80px;
+  left: 90px;
+  font-size: 40px;
+  color: rgb(54,2,2);
+}
+#Dessert-head hr{
+  width: 410px;
+  position: relative;
+  top: -110px;
+  height: 3px;
+  background-color: rgb(54,2,2);
+  right: 10px;
+}
+#Dessert_menu ul{
+  list-style: none;
+  color: rgb(54,2,2);
+  font-size: 30px;
+}
+#Dessert_menu ul li{
+  margin-bottom: 7px;
+}
+
+#Dessert_menu{
+  position: relative;
+  top: -110px;
+  left: 900px;
+}
+#Dessert_menu-price ul{
+  list-style: none;
+  color: rgb(54,2,2);
+  font-size: 30px;
+}
+#Dessert_menu-price ul li{
+  margin-bottom: 7px;
+}
+
+#Dessert_menu-price{
+  position: relative;
+  top: -380px;
+  left: 1300px;
+}
